@@ -49,5 +49,6 @@
   "devDependencies": {
     "jwt-decode": "^3.1.2",
     "moment": "^2.29.1"
-  }
+  }, 
+  "proxy" : "https://infinite-oasis-05948.herokuapp.com/"
 }
